@@ -1,5 +1,5 @@
 # Virtual Art Gallery
-
+SRS report document and project planning for building Virtual Art Gallary using Python and ModernNgl Framework.
 ## Introduction
 
 The Virtual Art Gallery is an innovative online platform that brings the world of art into the digital realm. This project aims to create an immersive and interactive experience for art enthusiasts, collectors, and artists alike. By leveraging cutting-edge web technologies, 3D rendering, and user-friendly interfaces, we're bridging the gap between physical galleries and the digital world.
